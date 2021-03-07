@@ -51,8 +51,8 @@ highlight StatusLineNC guifg=#808080 ctermfg=244 guibg=#3a3a3a ctermbg=237 gui=N
 
 " Number column {{{1
 
-highlight CursorLineNr guifg=#878787 ctermfg=102 guibg=#3a3a3a ctermbg=237 gui=NONE cterm=NONE
-highlight LineNr guifg=#878787 ctermfg=102 guibg=#3a3a3a ctermbg=237 gui=NONE cterm=NONE
+highlight CursorLineNr guifg=#878787 ctermfg=102 guibg=#ffffff ctermbg=237 gui=NONE cterm=NONE
+highlight LineNr guifg=#878787 ctermfg=102 guibg=#ffffff ctermbg=237 gui=NONE cterm=NONE
 
 " Color column {{{1
 
@@ -60,7 +60,7 @@ highlight ColorColumn ctermfg=NONE guibg=#3a3a3a ctermbg=237 gui=NONE cterm=NONE
 
 " Diff & Signs {{{1
 
-highlight SignColumn ctermfg=NONE guibg=#3a3a3a ctermbg=237 gui=NONE cterm=NONE
+highlight SignColumn ctermfg=NONE guibg=#ffffff ctermbg=237 gui=NONE cterm=NONE
 
 highlight DiffAdd guifg=#87ff5f ctermfg=119 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight DiffDelete guifg=#df5f5f ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
