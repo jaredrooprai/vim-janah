@@ -15,18 +15,18 @@ highlight Normal guifg=#dadada ctermfg=253 guibg=#262626 gui=NONE cterm=NONE
 " Misc {{{1
 
 highlight Comment guifg=#585858 ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-highlight Constant guifg=#87dfdf ctermfg=116 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+highlight Constant guifg=#ffaf87 ctermfg=116 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight Directory guifg=#ffaf87 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight EndOfBuffer guifg=#262626 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight Identifier guifg=#ffaf87 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight MatchParen guifg=#df005f ctermfg=161 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 highlight NonText guifg=#ff00af ctermfg=199 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-highlight Number guifg=#87dfdf ctermfg=116 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+highlight Number guifg=#ff00af ctermfg=116 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight PreProc guifg=#ffdfaf ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight Special guifg=#dfafaf ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight SpecialKey guifg=#3a3a3a ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight Statement guifg=#afdf87 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-highlight String guifg=#87afdf ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+highlight String guifg=#afdf87 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight Title guifg=#afff87 ctermfg=156 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight Todo guifg=#ffdfaf ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 highlight Type guifg=#87dfaf ctermfg=115 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
